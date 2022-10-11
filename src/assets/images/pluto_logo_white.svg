@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="120px" viewBox="0 0 110 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pluto_logo_white</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pluto_logo_white" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="0 65 55 65 55 120"></polygon>
+            <path d="M55,65 L55,0 L76.72,0 C95.1,0 110,14.55 110,32.5 C110,50.45 95.1,65 76.72,65 L55,65 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

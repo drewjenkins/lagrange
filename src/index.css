@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("./assets/fonts/GT-Flexa-Standard-Regular.woff2") format("woff2"),
+    url("./assets/fonts/GT-Flexa-Standard-Regular.woff") format("woff"),
+    url("./assets/fonts/GT-Flexa-Standard-Regular.ttf") format("ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+body {
+  font-family: "GT Flexa";
+}
