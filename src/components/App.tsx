@@ -1,4 +1,5 @@
 import { css } from "@emotion/react";
+import logo from "../assets/images/logo-white.png";
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
         color: white;
       `}
     >
+      <img src={logo} />
       App
     </div>
   );
