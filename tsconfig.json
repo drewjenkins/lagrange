@@ -19,6 +19,6 @@
     "jsxImportSource": "@emotion/react",
     "sourceMap": true
   },
-  "include": ["src"],
+  "include": ["src", "vendorTypes"],
   "exclude": ["node_modules", "dist"]
 }
